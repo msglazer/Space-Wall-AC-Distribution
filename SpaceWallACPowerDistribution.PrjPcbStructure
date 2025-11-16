@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ACPowerDistributionACtoDC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ACPowerDistributionACtoDC.SchDoc|FileName=ACPowerDistributionConnectors.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ACPowerDistributionACtoDC.SchDoc|FileName=ACPowerDistributionDCtoDC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ACPowerDistributionACtoDC.SchDoc|FileName=ACPowerDistributionFanControl.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ACPowerDistributionACtoDC.SchDoc|FileName=ACPowerDistributionUSB-PD.SchDoc|SheetNumber=4
